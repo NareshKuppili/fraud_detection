@@ -10,7 +10,7 @@ def model2():
 
 
 def model3():
-    print("Model3")
+    print("Model3 is good")
 
 print("Model 2 is good")
 
